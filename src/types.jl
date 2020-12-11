@@ -4,7 +4,7 @@ function printsum(a)
 end
 # </hide>
 
-# Type Definitions are probably most similar to tyepdefs in c?
+# Type Definitions are probably most similar to typedefs in c?
 # a simple type with no special constructor functions might look like this
 mutable struct Person
 	name::AbstractString
